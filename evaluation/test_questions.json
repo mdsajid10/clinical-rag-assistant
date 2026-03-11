@@ -1,0 +1,111 @@
+[
+    {
+        "question": "What are the common symptoms of Type 2 Diabetes?",
+        "expected_answer": "Common symptoms of Type 2 Diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections.",
+        "expected_keywords": [
+            "thirst",
+            "frequent urination",
+            "fatigue",
+            "blurred vision",
+            "weight loss"
+        ]
+    },
+    {
+        "question": "Explain the mechanism of action of Metformin.",
+        "expected_answer": "Metformin works primarily by decreasing hepatic glucose production and improving insulin sensitivity in peripheral tissues. It activates AMP-activated protein kinase (AMPK), which inhibits gluconeogenesis in the liver.",
+        "expected_keywords": [
+            "hepatic glucose",
+            "insulin sensitivity",
+            "AMPK",
+            "gluconeogenesis"
+        ]
+    },
+    {
+        "question": "What are the risk factors for cardiovascular disease?",
+        "expected_answer": "Major risk factors for cardiovascular disease include hypertension, high cholesterol, smoking, obesity, diabetes, physical inactivity, family history, and poor diet.",
+        "expected_keywords": [
+            "hypertension",
+            "smoking",
+            "cholesterol",
+            "obesity",
+            "diabetes"
+        ]
+    },
+    {
+        "question": "Describe the treatment options for hypertension.",
+        "expected_answer": "Treatment options for hypertension include lifestyle modifications and medications such as ACE inhibitors, ARBs, calcium channel blockers, diuretics, and beta blockers.",
+        "expected_keywords": [
+            "ACE inhibitors",
+            "diuretics",
+            "calcium channel",
+            "lifestyle",
+            "beta blockers"
+        ]
+    },
+    {
+        "question": "What is the pathophysiology of asthma?",
+        "expected_answer": "Asthma involves chronic airway inflammation, bronchoconstriction, and airway hyperresponsiveness. It is mediated by IgE antibodies, mast cells, eosinophils, and T-lymphocytes leading to mucus production and airway remodeling.",
+        "expected_keywords": [
+            "airway",
+            "inflammation",
+            "bronchoconstriction",
+            "IgE",
+            "mast cells"
+        ]
+    },
+    {
+        "question": "How is chronic kidney disease diagnosed?",
+        "expected_answer": "Chronic kidney disease is diagnosed by measuring glomerular filtration rate (GFR), serum creatinine levels, and assessing proteinuria or albuminuria. The disease is classified into five stages based on GFR.",
+        "expected_keywords": [
+            "GFR",
+            "creatinine",
+            "proteinuria",
+            "albuminuria",
+            "stages"
+        ]
+    },
+    {
+        "question": "What are the side effects of chemotherapy?",
+        "expected_answer": "Common side effects of chemotherapy include nausea and vomiting, hair loss, fatigue, immunosuppression, anemia, increased risk of infection, and mucositis.",
+        "expected_keywords": [
+            "nausea",
+            "hair loss",
+            "fatigue",
+            "immunosuppression",
+            "anemia"
+        ]
+    },
+    {
+        "question": "Explain the difference between Type 1 and Type 2 Diabetes.",
+        "expected_answer": "Type 1 Diabetes is an autoimmune disease where the immune system destroys insulin-producing beta cells. Type 2 Diabetes involves insulin resistance and decreased beta cell function, with a stronger genetic and lifestyle component.",
+        "expected_keywords": [
+            "autoimmune",
+            "insulin resistance",
+            "beta cells",
+            "onset",
+            "genetics"
+        ]
+    },
+    {
+        "question": "What is the recommended treatment for community-acquired pneumonia?",
+        "expected_answer": "Treatment for community-acquired pneumonia includes empiric antibiotics such as amoxicillin, macrolides like azithromycin, or fluoroquinolones. Treatment choice depends on severity and patient comorbidities.",
+        "expected_keywords": [
+            "antibiotics",
+            "amoxicillin",
+            "macrolides",
+            "fluoroquinolones",
+            "severity"
+        ]
+    },
+    {
+        "question": "What are the warning signs of a stroke?",
+        "expected_answer": "Warning signs of a stroke can be remembered using the FAST acronym: Face drooping, Arm weakness, Speech difficulty, and Time to call emergency services.",
+        "expected_keywords": [
+            "FAST",
+            "face drooping",
+            "arm weakness",
+            "speech",
+            "time"
+        ]
+    }
+]
